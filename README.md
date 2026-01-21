@@ -41,6 +41,9 @@ This project walks through setting up a basic Active Directory environment in Mi
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/894b7e4b-6673-4829-8aad-02115c64af2b" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dec9c976-e973-4395-b848-cba3ec2cd666" />
+
+
 
 
 
