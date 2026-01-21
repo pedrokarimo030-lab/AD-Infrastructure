@@ -61,6 +61,9 @@ This project walks through setting up a basic Active Directory environment in Mi
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/609d4b39-7c4a-4bc7-8fb6-400f64ffdbd5" />
 
+<h1>Deploying Active Directory
+</h1>
+
 
 
 
