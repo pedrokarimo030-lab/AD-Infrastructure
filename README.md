@@ -63,6 +63,9 @@ This project walks through setting up a basic Active Directory environment in Mi
 
 <h1>Deploying Active Directory
 </h1>
+Installing and Configuring Active Directory Domain Services
+First, I log into DC-1 and install the Active Directory Domain Services (AD DS) role. After the installation completes, I promote the server to a Domain Controller by creating a new forest named mydomain.com. I restart the server and log back in to DC-1 using the domain account mydomain.com\labuser.
+
 
 
 
