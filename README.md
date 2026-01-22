@@ -82,6 +82,9 @@ First, I log into DC-1 and install the Active Directory Domain Services (AD DS) 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50febe71-77b8-420a-9438-76f35ceb91fb" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13f21f9d-bb3e-414d-b32e-35649b655e4e" />
+
+
 
 
 
