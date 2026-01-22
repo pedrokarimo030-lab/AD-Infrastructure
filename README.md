@@ -98,6 +98,11 @@ First, I log into DC-1 and install the Active Directory Domain Services (AD DS) 
 
 <h2>Creating Users with PowerShell, Group Policy, and Managing Accounts</h2>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02440a76-be08-4085-82be-4430e0b62dbb" />
+
+
+
+
 
 
 
