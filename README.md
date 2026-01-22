@@ -96,7 +96,9 @@ First, I log into DC-1 and install the Active Directory Domain Services (AD DS) 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ed203a5-0747-4f99-a13e-7574049cc54b" />
 
-<h2>Creating Users with PowerShell, Group Policy, and Managing Accounts</h2>
+<h2>User Provisioning and Access Management with PowerShell and Group Policy</h2>
+
+This section demonstrates Remote Desktop access for non-administrative domain users, applying Group Policy concepts for scalable configuration, and automating user creation with PowerShell. It covers executing a bulk user-creation script on the Domain Controller, verifying account placement in Active Directory Organizational Units, and validating user logins on a Windows 11 client using standard domain credentials.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02440a76-be08-4085-82be-4430e0b62dbb" />
 
