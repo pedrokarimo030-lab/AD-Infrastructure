@@ -122,9 +122,9 @@ This section demonstrates Remote Desktop access for non-administrative domain us
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b7d7d486-0b61-4300-b534-10321b227087" />
 
-Summary:
-
+# Summary:
 This lab demonstrates the deployment and management of a basic Active Directory infrastructure in the cloud using Microsoft Azure. A Windows Server 2022 virtual machine is configured as a Domain Controller by installing Active Directory Domain Services (AD DS) and creating a new forest (mydomain.com). A Windows 11 client VM is then connected to the same virtual network with properly configured DNS to enable domain communication. The environment is validated through connectivity and name-resolution tests using PowerShell and ping commands. The lab also demonstrates user provisioning and access management, including enabling Remote Desktop for standard domain users, applying Group Policy for centralized configuration, and automating bulk user creation with PowerShell while verifying account placement and successful domain authentication.
+
 
 
 
