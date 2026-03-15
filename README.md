@@ -1,21 +1,6 @@
 # AD-Infrastructure: Active Directory Domain Controller Setup in Azure
 This project walks through setting up a basic Active Directory environment in Microsoft Azure. It includes creating a Domain Controller using Windows Server 2022 and a Windows 11 client VM, placing both systems on the same virtual network, and configuring DNS to enable proper communication. The lab finishes by verifying connectivity and DNS resolution through ping tests and PowerShell commands.
 
-Technologies Used
-
-Microsoft Azure Virtual Machines
-
-Windows Server 2022
-
-Active Directory Domain Services (AD DS)
-
-DNS
-
-PowerShell
-
-Group Policy
-
-Windows 11 Client VM
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1cdf7503-564d-410d-8b8e-5c5ad5576bef" />
 
@@ -23,7 +8,17 @@ Windows 11 Client VM
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/c5e176e6-c6ae-448c-8aaf-d0b8ab924312" />
 
-<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/ecf45b0b-3805-497a-8159-f8b95200ca1b" />
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/e	Technologies Used
+	Microsoft Azure Virtual Machines
+	Windows Server 2022
+	Active Directory Domain Services (AD DS)
+	DNS
+	PowerShell
+	Group Policy
+	Windows 11 Client VM
+
+
+cf45b0b-3805-497a-8159-f8b95200ca1b" />
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/201f081f-dedb-4f4d-af42-8fcb92dc14ce" />
 
